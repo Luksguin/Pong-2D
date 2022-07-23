@@ -51,5 +51,4 @@ public class GameManager : MonoBehaviour
         uiMenu.SetActive(true);
         moveball.CanMove(false);
     }
-    //
 }
